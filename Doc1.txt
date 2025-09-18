@@ -1,3 +1,5 @@
 Initial git setup
 
+FeatureA changes made
+
 featureB updated this file.
