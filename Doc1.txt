@@ -1,1 +1,3 @@
 Initial git setup
+
+featureB updated this file.
